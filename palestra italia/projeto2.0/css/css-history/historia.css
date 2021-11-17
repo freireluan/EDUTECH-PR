@@ -1,0 +1,21 @@
+.historia{
+    background: linear-gradient(rgb(4,80,7),rgb(3,100,5),rgb(2,170,4),rgb(1,240,9), rgb(2,170,4), rgb(3,100,5), rgb(4,80,7));
+}
+.inicio, .resumo{
+    margin-right: 2rem;
+    margin-left: 2rem;
+    line-height: 1.9rem;
+    font-size: 1.5rem;
+}
+.titulo{
+    font-size:3rem;
+    text-align: center;
+    line-height: 3.5rem;
+} 
+.w{
+    margin-bottom: 0;
+}
+#o{
+    margin-top: 0;
+    border-top: 0.5px solid black;
+}
